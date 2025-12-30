@@ -119,12 +119,12 @@
     flex-wrap: wrap;
 
     .three {
-        background-image: url(./images/89.jpg);
+        background-image: url(./images/89.png);
         background-size: cover;
         background-position: center;
     }
     .two {
-        background-image: url(./images/yu.jpg);
+        background-image: url(./images/yu.png);
         background-size: cover;
         background-position: center;
     }
@@ -168,7 +168,7 @@
     }
 
     .one {
-        background-image: url(./images/fgfg.jpg);
+        background-image: url(./images/fgfg.png);
         background-size: cover;
         background-position: center;
     }
