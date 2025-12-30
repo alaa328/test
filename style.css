@@ -88,3 +88,204 @@ a{
         border: 0;
      }
 }
+main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    .section-2{
+        width: 70%;
+        height: 100vh;
+        /* background-color: red; */
+        text-align: center;
+
+     .upper{
+            padding-top: 5rem;
+            h2{
+                font-size: 3rem;
+                font-family: "Open Sans", sans-serif;
+                text-transform: uppercase;
+                padding-bottom: 1rem;
+            }
+            p{
+                font-size: 1.125rem;
+                font-family: "Open Sans", sans-serif;
+                line-height: 2rem;
+                text-transform: lowercase;
+            }
+        }
+    }
+  
+}
+
+          .lower{
+            padding-top: 20px;
+        width: 100%;
+        height: 100vh;
+        /* background-color: blue; */
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        .three{
+            background-image: url(../89.jpg);
+            background-size: cover;
+            background-position: center;
+        }
+        .two{
+            background-image: url(../yu.jpg);
+            background-size: cover;
+            background-position: center;
+        }
+      
+        a{
+            color: #34365a;
+        }
+        
+        p{
+            font-size: 1rem;
+            font-family: "Open Sans", sans-serif;
+            padding: 10px 10px;
+            text-align: start;
+            line-height: 2.5rem;
+        }
+        button{
+            width: 200px;
+            height: 45px;
+            margin-top: 20px;
+            border-radius: 2rem;
+            border: 2px solid #34365a;
+            background-color: #f1bb13;
+            color: #34365a;
+            font-weight: bold;
+            margin-top: 2rem;
+            margin-right: 19rem;
+            &:hover{
+                background-color: white;
+                color: #34365a;
+                cursor: pointer;
+            }
+        }
+        
+        .card{
+            h3{
+                font-size: 1.5rem;
+                font-family: "Open Sans", sans-serif;
+                padding: 10px 10px;
+                text-align: start;
+                
+            }
+        
+
+            
+        }
+
+        .one{
+            background-image: url(/fgfg.jpg);
+            background-size: cover;
+            background-position: center;
+        }
+
+        .orenge{    background-color: #f1bb13;
+
+  }
+  .blue{
+    background-color: #34365a;
+    color: thistle;
+
+
+ button{
+        border: 2px solid white;
+        color: thistle;
+        background-color: #34365a;
+        &:hover{
+            background-color: white;
+            color: #34365a;
+            cursor: pointer;
+        }
+  }
+
+  }
+
+
+        .card{
+            width: 50%;
+            height: 50vh;
+            border: 2px solid black;
+            
+            
+
+
+        }
+    }
+    #section-3{
+        width: 100%;
+        height: 100vh;
+        background-color: #34365a;
+        margin-top: 45%;
+        .contant{
+            width: 50%;
+            height: 100vh;
+            text-align: center;
+            margin-top: 5rem;
+            .bot{
+                display: flex;
+                justify-content: center;
+                margin-top: 2rem;
+                gap: 1rem;
+                .bot2{
+                    background-color: white;
+                    color: #34365a;
+                    border: 2px solid #34365a;
+                    font-weight: bold;
+                    font-size: large;
+
+                    &:hover{
+                        background-color: #34365a;
+                        color: white;
+                        cursor: pointer;
+                        border: 2px solid white;
+                    }
+                }
+                .bot1{
+                        background-color: #34365a;
+                        color: white;
+                        border: 2px solid white;
+                        font-weight: bold;
+                        font-size: large;
+
+                        &:hover{
+                            background-color: white;
+                            color: #34365a;
+                            cursor: pointer;
+                        }
+
+                      
+                    }
+                button{
+                    margin-top: 1rem;
+                    width: 250px;
+                    height: 50px;
+                    border: 0;
+                    border-radius: 2rem;
+                   
+                }
+            }
+        }
+        h2{
+            font-size: 3rem;
+            font-family: "Open Sans", sans-serif;
+            text-transform: uppercase;
+            padding-bottom: 1rem;
+            color: thistle;
+        }
+        p{
+            font-size: 1.125rem;
+            font-family: "Open Sans", sans-serif;
+            line-height: 2rem;
+            text-transform: lowercase;
+            color: thistle;
+        }
+    }
+
+   
